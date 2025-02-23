@@ -1,0 +1,8 @@
+# ignoring output folders
+*__
+
+# ignoring models that can be downloaded
+*.tflite
+
+# ignoring env files
+*.env
